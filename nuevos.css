@@ -262,6 +262,7 @@ body {
 
 .after-pip ._navbar__list-item a{
   margin: 0 !important;
+  font-weight: 500;
 }
 
 .after-pip{
